@@ -5,7 +5,7 @@ This repo will be used for web development lab #3, which validates basic CSS kno
 
 This repo consist of 4 directories, in each directory you wil find 2 files per the following structure:<br />
 ```
-├── Cascade
+├── Poster
 │   ├── goal.png
 │   ├── style.css
 │   └── index.html
@@ -35,7 +35,7 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 
 |  **Percentage**       |**Directory**       | **Criteria**                                   | **YES**       | **NO**        | **Observations** |
 |------------------------------------------|------------------------------------------|-----------------------------------------------|-------------------------------|--------------------------|--------------------------|
-|  **25%**  |**Cascade**  | Matches the png image?   |    |          |       |
+|  **25%**  |**Poster**  | Matches the png image?   |    |          |       |
 | **25%**  |**Colors** | Matches the png image?               |        |   |    |
 | **25%**  |**Fonts**      | Matches the png image?       |        | |  |
 | **25%**  |**Selectors** | Matches the png image?         |    |    | |
