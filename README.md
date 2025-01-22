@@ -1,3 +1,103 @@
+# Git and Github health check
+## ** Create and Edit a File**
+**Objective:** Practice creating, editing, committing, and pushing changes to the repository.
+
+1. **Step 1: Instructions (in GitHub README):**
+   - Clone this repository to your local machine using:
+     
+
+bash
+     git clone <repository-url>
+
+
+   - Navigate into the repository folder using git bash:
+     
+
+bash
+     cd <repository-name>
+
+
+   - Create a new file named introduction.txt:
+     
+
+bash
+     touch introduction.txt
+
+
+   - Open the file in a text editor (e.g., nano, vim, or a graphical editor) and write:
+     
+
+My name is [Your Name], and I'm learning Git!
+
+
+   - Save the file.
+   - Stage the file for commit:
+     
+
+bash
+     git add introduction.txt
+
+
+   - Commit your changes with a meaningful message:
+     
+
+bash
+     git commit -m "Add introduction file"
+
+
+   - Push your changes to the remote repository:
+     
+
+bash
+     git push
+
+
+
+---
+
+### **Step 2: Update a File**
+**Objective:** Practice pulling the latest changes, editing a file, and committing updates.
+
+1. **Instructions (in GitHub README):**
+   - Make sure your local repository is up to date:
+     
+
+bash
+     git pull
+
+
+   - Open the introduction.txt file you created earlier and add a new line:
+     
+
+My favorite programming language is [Your Favorite Language].
+
+
+   - Save the file.
+   - Check the status of your repository to confirm the file was modified:
+     
+
+bash
+     git status
+
+
+   - Stage and commit your changes with a descriptive message:
+     
+
+bash
+     git add introduction.txt
+     git commit -m "Update introduction with favorite programming language"
+
+
+   - Push your changes to the remote repository:
+     
+
+bash
+     git push
+
+
+
+
+
 # CSS-Introduction
 This repo will be used for web development lab #3, which validates basic CSS knowledge for students
 
