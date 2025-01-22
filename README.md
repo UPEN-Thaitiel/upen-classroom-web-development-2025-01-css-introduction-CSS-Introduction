@@ -125,9 +125,6 @@ This repo consist of 4 directories, in each directory you wil find 2 files per t
 1. Clone the repository on your local machine.
 2. Edit the <code>index.html</code>  and <code>style.css</code>  files,  make the necessary modifications to match the <code>goal.png</code> on each folder, some folders have comments with additional instructions or hints.
 3. Commit your changes and push them to the github repository.
-4. Create a pull request for review.
-5. Once all students complete the Pull Request or the time assigned from the teacher is completed, an issue in your github repository will be created.
-6. Follow the instructions of the github issue.
 
 ## Evaluation criteria
 
