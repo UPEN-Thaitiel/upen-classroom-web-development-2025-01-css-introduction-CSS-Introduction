@@ -1,5 +1,5 @@
 # Git and Github health check
-## ** Create and Edit a File**
+## **Create and Edit a File**
 **Objective:** Practice creating, editing, committing, and pushing changes to the repository.
 
 1. **Step 1: Instructions (in GitHub README):**
