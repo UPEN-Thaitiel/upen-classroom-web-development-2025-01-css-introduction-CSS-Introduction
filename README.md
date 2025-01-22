@@ -88,10 +88,9 @@
 
    - Push your changes to the remote repository:
      
-
-    ```
+   ```
      git push
-    ```
+   ```
 
 
 
